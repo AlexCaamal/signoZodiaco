@@ -136,7 +136,5 @@ public class ControllerFormUser implements ActionListener, KeyListener {
         int cantidad = numero.length();
         lb.setText(""+cantidad);        
     }
-
-
-
+    
 }
